@@ -1,3 +1,7 @@
+# Script Purpose
+
+To analyse the data contained within the UCI HAR Dataset and create a single tidy dataset showing the average of each variable for each activity and each subject
+
 # Explanation of Script Function
 
 1. The script first reads the contents of the file 'features.txt' into a dataframe named 'feats'. This file contains the variable names for the measurements in the data-set.
